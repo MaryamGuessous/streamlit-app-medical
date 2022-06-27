@@ -62,7 +62,7 @@ import pickle
 warnings.filterwarnings("ignore")
 
 
-inputFileName = "donnees_synthese_1606.xlsx"
+inputFileName = "donnees_synthese_1706.xlsx"
 data = pd.read_excel(inputFileName)
 
 inputFileName_2 = "donnees_synthese_2_1606.xlsx"
